@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muskan Motwani</h1>
-<h3 align="center">🎓 Final-Year BCA (Data Science) Student | 📊 Data Analyst | 🤖 Machine Learning Enthusiast 🚀 Passionate about transforming data into meaningful insights through Machine Learning, Data Analytics, and AI-powered applications. I enjoy building end-to-end projects that solve real-world problems using data.</h3>
+<h1 align="left">Hi 👋, I'm Muskan Motwani</h1>
+<h4 align="cleft">🎓 Final-Year BCA (Data Science) Student | 📊 Data Analyst | 🤖 Machine Learning Enthusiast 🚀 Passionate about transforming data into meaningful insights through Machine Learning, Data Analytics, and AI-powered applications. I enjoy building end-to-end projects that solve real-world problems using data.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan-motwani&label=Profile%20views&color=0e75b6&style=flat" alt="muskan-motwani" /> </p>
 
