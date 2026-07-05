@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Muskan Motwani</h1>
+<h1 align="left">Hello , I'm Muskan Motwani</h1>
 <h3 align="left">🎓 Final-Year BCA (Data Science) Student | 📊 Data Analyst | 🤖 Machine Learning Enthusiast</h3>
 
 <p align="left">
