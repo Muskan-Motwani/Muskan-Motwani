@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Muskan Motwani</h1>
-<h3 align="center">🎓 Final-Year BCA (Data Science) Student | 📊 Data Analyst | 🤖 Machine Learning Enthusiast</h3>
+<h1 align="left">Hi 👋, I'm Muskan Motwani</h1>
+<h3 align="left">🎓 Final-Year BCA (Data Science) Student | 📊 Data Analyst | 🤖 Machine Learning Enthusiast</h3>
 
-<p align="center">
+<p align="left">
 🚀 Passionate about transforming data into meaningful insights through Machine Learning, Data Analytics, and AI-powered applications.
 I enjoy building end-to-end projects that solve real-world problems using data — from raw datasets to deployed dashboards and models.
 </p>
