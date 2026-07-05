@@ -1,22 +1,91 @@
-<h1 align="left">Hi 👋, I'm Muskan Motwani</h1>
-<h4 align="cleft">🎓 Final-Year BCA (Data Science) Student | 📊 Data Analyst | 🤖 Machine Learning Enthusiast 🚀 Passionate about transforming data into meaningful insights through Machine Learning, Data Analytics, and AI-powered applications. I enjoy building end-to-end projects that solve real-world problems using data.</h4>
+<h1 align="center">Hi 👋, I'm Muskan Motwani</h1>
+<h3 align="center">🎓 Final-Year BCA (Data Science) Student | 📊 Data Analyst | 🤖 Machine Learning Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan-motwani&label=Profile%20views&color=0e75b6&style=flat" alt="muskan-motwani" /> </p>
-
-- 👨‍💻 This is my Portfolio: [https://portfolio-website-6twyh7rnd-muskanmmotwani7-3462s-projects.vercel.app/](https://portfolio-website-6twyh7rnd-muskanmmotwani7-3462s-projects.vercel.app/)
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/191i_xTYne-ljNSYC5AP4LU5vdXMhnv_A/edit?usp=drive_link&ouid=113333117774470398981&rtpof=true&sd=true](https://docs.google.com/document/d/191i_xTYne-ljNSYC5AP4LU5vdXMhnv_A/edit?usp=drive_link&ouid=113333117774470398981&rtpof=true&sd=true)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/muskan-motwani-546636315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muskan-motwani-546636315/" height="30" width="40" /></a>
+<p align="center">
+🚀 Passionate about transforming data into meaningful insights through Machine Learning, Data Analytics, and AI-powered applications.
+I enjoy building end-to-end projects that solve real-world problems using data — from raw datasets to deployed dashboards and models.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
+### 🔗 Quick Links
+- 👨‍💻 **Portfolio:** [View Here](https://portfolio-website-6twyh7rnd-muskanmmotwani7-3462s-projects.vercel.app/)
+- 📄 **Resume / Experience:** [View Here](https://docs.google.com/document/d/191i_xTYne-ljNSYC5AP4LU5vdXMhnv_A/edit?usp=drive_link&ouid=113333117774470398981&rtpof=true&sd=true)
+- 📍 Based in Pune, India
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskan-motwani&show_icons=true&locale=en" alt="muskan-motwani" /></p>
+### 🧠 About Me
+- 🎓 Final-year **BCA (Data Science)** student at Sri Balaji University, Pune — **9.7 CGPA**
+- 📊 Currently exploring roles as a **Data Analyst**, with hands-on experience in ML and analytics internships
+- 🔬 Research Intern at **Gudsky Research Foundation**, working on a VLM-based surveillance anomaly detection system
+- 💻 Built end-to-end ML & analytics projects — from data preprocessing to model deployment
+- 🏆 1st Place, Code Fusion 2K26 (Competitive Programming) | 1st Place, Tech Battle Quiz
+- 🎤 Vice President, Techno Tuner Club | Class Representative
+- 📚 Currently pursuing **Google Data Analytics Professional Certificate**
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **Fake News Detection System** (Capstone) | End-to-end NLP classification on 44K+ news articles, achieving **98.86% accuracy** with Logistic Regression; deployed as a Streamlit app | Python, Scikit-learn, TF-IDF, NLTK, Streamlit |
+| **Career Path Prediction System** | Career prediction using Random Forest & Neural Network (TensorFlow/Keras) on a 19-feature dataset, with top-3 role probabilities & course recommendations | Python, TensorFlow, Streamlit |
+| **Customer Behaviour Analysis** | End-to-end analytics pipeline — data cleaning, SQL-based business analysis, and interactive Power BI dashboard | Python, PostgreSQL, Power BI |
+| **Trading Behaviour & Sentiment Analysis** | NLP-driven analysis linking sentiment trends to trading behaviour | Python, NLP, Pandas |
+| **Recommendation System** | Content-based filtering recommendation engine | Python, Scikit-learn |
+| **SMS Spam Detection** | Text classification using TF-IDF and Naive Bayes | Python, NLP |
+
+📌 More projects on my [GitHub](https://github.com/Muskan-Motwani) and [Portfolio](https://portfolio-website-6twyh7rnd-muskanmmotwani7-3462s-projects.vercel.app/)
+
+---
+
+### 💼 Experience
+- **Research Intern**, Gudsky Research Foundation — Working on ChakshuAI, a VLM-based surveillance anomaly detection system
+- **Machine Learning Intern**, Cloud Counselage — Built and deployed a career prediction system
+- **Web Development Intern**, GlobCred — Built responsive websites with HTML, CSS, JavaScript
+
+---
+
+<p align="center">
+📫 Let's connect — always open to opportunities in Data Analytics & Machine Learning!
+</p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskan-motwani&" alt="muskan-motwani" /></p>
