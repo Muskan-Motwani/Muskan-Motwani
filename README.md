@@ -87,5 +87,8 @@ I enjoy building end-to-end projects that solve real-world problems using data �
 📫 Let's connect — always open to opportunities in Data Analytics & Machine Learning!
 </p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muskan-motwani&" alt="muskan-motwani" /></p>
+<p>
+  <img align="center"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=muskan-motwani&"
+       alt="muskan-motwani" />
+</p>
