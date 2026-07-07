@@ -87,4 +87,6 @@ I enjoy building end-to-end projects that solve real-world problems using data �
 📫 Let's connect — always open to opportunities in Data Analytics & Machine Learning!
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Muskan-Motwani&theme=github-dark)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Muskan-Motwani&theme=github-dark" alt="GitHub Streak"/>
+</p>
